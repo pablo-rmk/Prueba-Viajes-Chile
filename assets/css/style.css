@@ -4,3 +4,18 @@
     border: 0;
     font-family: 'Open Sans', sans-serif;
 }
+nav .navbar-icon{
+    width: 30px;
+    height: 30px;
+}
+.section1 .content{
+    text-align: justify;
+}
+.section2 .content-card{
+    text-align: justify;
+}
+footer .social-network-icon{
+    text-decoration: none;
+    color: white;
+}
+
