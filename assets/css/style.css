@@ -2,13 +2,28 @@
     margin: 0;
     padding: 0;
     border: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+header{
+    position: relative;
+    width: 100%;
+}
+.header-inner{
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 99;
+    background-color: transparent;
+}
+.contenedor{
+    margin: 0 auto;
+    width: 70%;
 }
 nav .navbar-icon{
     width: 30px;
     height: 30px;
 }
-.section1 .content{
+.section1 p{
     text-align: justify;
 }
 .section2 .content-card{
